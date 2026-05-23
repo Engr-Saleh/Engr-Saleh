@@ -28,5 +28,15 @@
 ---
 
 ### 📬 Connect with Me
+### 📬 Let's Connect
 
-Feel free to explore my repositories for engineering drawings, plans, and technical documents!
+[![GitHub](https://img.shields.io/badge/GitHub-Engr--Saleh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engr-Saleh)
+[![Website](https://img.shields.io/badge/Website-ankonengineers.com-E4B429?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankonengineers.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Saleh_Ahmed-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1D2tj1XS7b/)
+
+---
+
+*Feel free to explore my repositories for engineering drawings, plans and technical documents*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Engr-Saleh&color=E4B429&style=flat)
+
