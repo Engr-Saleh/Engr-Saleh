@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Saleh Ahmed
-### 🏗️ B.Sc Engineer &nbsp;|&nbsp; 📐 AutoCAD & SketchUp Expert &nbsp;|&nbsp;Civil Enginnering  Background
+### 🏗️ B.Sc Engineer &nbsp;|&nbsp; 📐 AutoCAD & SketchUp Expert &nbsp;|&nbsp; 🏗️ Civil Enginnering  Background &nbsp;
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4B429&center=true&vCenter=true&width=500&lines=Former+Principal+Engineer+at+SUST;AutoCAD+%26+SketchUp+Specialist;2D+Planning+%26+Technical+Drawing;Open+to+Engineering+Collaborations!" alt="Typing SVG" />
 
