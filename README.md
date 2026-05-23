@@ -2,8 +2,6 @@
 
 🏛️ **Former Principal Engineer** — Physics Department, SUST, Sylhet
 🎓 B.Sc Engineer | EEE background
-🛠️ **Skills:** AutoCAD · SketchUp · 2D Planning
-🌐 English speaker | Bangladesh 🇧🇩
 📐 Sharing engineering drawings & technical docs
 
 ---
