@@ -31,7 +31,7 @@
 ### 📬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Engr--Saleh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engr-Saleh)
-[![Website](https://img.shields.io/badge/Website-ankonengineers.com-E4B429?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankonengineers.com)
+[![Email](https://img.shields.io/badge/Email-ankonengineers@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankonengineers@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Saleh_Ahmed-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1D2tj1XS7b/)
 
 ---
