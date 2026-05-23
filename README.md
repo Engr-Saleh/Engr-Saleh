@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Saleh Ahmed
-### 🏗️ B.Sc Engineer &nbsp;|&nbsp; 📐 AutoCAD & SketchUp Expert &nbsp;|&nbsp; ⚡ EEE Background
+### 🏗️ B.Sc Engineer &nbsp;|&nbsp; 📐 AutoCAD & SketchUp Expert &nbsp;|&nbsp;Civil Enginnering  Background
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4B429&center=true&vCenter=true&width=500&lines=Former+Principal+Engineer+at+SUST;AutoCAD+%26+SketchUp+Specialist;2D+Planning+%26+Technical+Drawing;Open+to+Engineering+Collaborations!" alt="Typing SVG" />
 
@@ -11,11 +11,10 @@
 
 ## 👨‍💼 About Me
 
-- 🎓 **B.Sc Engineer** with a strong foundation in technical design & EEE concepts
+- 🎓 **B.Sc Engineer** with a strong foundation in technical design & Civil Engineering concept
 - 🏛️ Former **Principal Engineer** — Physics Department, SUST, Sylhet
-- 📐 Experienced in **AutoCAD** technical drawings & **SketchUp** 3D models
-- 🗺️ Skilled in **2D site planning** and layout design
-- ⚡ Background knowledge in **Electrical & Electronic Engineering (EEE)**
+- 📐 Experienced in **AutoCAD** technical drawings & **SketchUp** 2D models
+- 🗺️ Skilled in **2D  planning** and layout design
 - 📍 Based in **Sylhet, Bangladesh**
 
 ---
