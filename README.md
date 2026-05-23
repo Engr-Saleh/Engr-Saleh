@@ -12,7 +12,7 @@
 ## 👨‍💼 About Me
 
 - 🎓 **B.Sc Engineer** with a strong foundation in technical design & Civil Engineering concept
-- 🏛️ Former **Principal Engineer** — Physics Department, SUST, Sylhet
+- 🏛️ Former **Principal Engineer** — Shahjalal University of Science & Technology(SUST) , Sylhet
 - 📐 Experienced in **AutoCAD** technical drawings & **SketchUp** 2D models
 - 🗺️ Skilled in **2D  planning** and layout design
 - 📍 Based in **Sylhet, Bangladesh**
